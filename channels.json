@@ -1,0 +1,94 @@
+{
+    "id": "buncha",
+    "url": "https://tt.8share.pro/buncha",
+    "name": "Bún Chả TV",
+    "color": "#1cb57a",
+    "image": {
+        "url": "https://kaytee1012.github.io/buncha_logo.png"
+    },
+    "description": "Bún Chả TV - Trang web phát sóng bóng đá trực tuyến miễn phí hàng đầu tại Việt Nam, mang đến trải nghiệm chất lượng cao với bình luận tiếng Việt sống động.",
+    "share": {
+        "url": "https://tt.8share.pro/buncha"
+    },
+    "notice": {
+        "closeable": true,
+        "icon": "https://media.hth4nh.eu.org/static/img/tele.png",
+        "id": "notice",
+        "link": "https://t.me/dqstore1",
+        "text": "Nhóm Telegram cập nhật"
+    },
+    "groups": [
+        {
+            "id": "live",
+            "name": "🔴 Live",
+            "display": "horizontal",
+            "grid_number": 1,
+            "channels": [
+                {
+                    "id": "ch-6ae8b1bc9f03",
+                    "name": "havre-athletic-club-vs-paris-saint-germain-2397996",
+                    "labels": [
+                        {
+                            "position": "top-left",
+                            "text": "● Live",
+                            "color": "#FF0000",
+                            "text_color": "#FFFFFF"
+                        }
+                    ],
+                    "description": "Live Stream",
+                    "image": {
+                        "url": "https://kaytee1012.github.io/buncha_logo.png",
+                        "height": 480,
+                        "width": 640,
+                        "display": "cover",
+                        "shape": "square"
+                    },
+                    "type": "single",
+                    "display": "text-below",
+                    "sources": [
+                        {
+                            "id": "src-ef095c281f46",
+                            "name": "Server 1",
+                            "contents": [
+                                {
+                                    "id": "ct-670ec1ee09a9",
+                                    "name": "havre-athletic-club-vs-paris-saint-germain-2397996",
+                                    "streams": [
+                                        {
+                                            "id": "st-cac2ac840365",
+                                            "name": "Server 1",
+                                            "stream_links": [
+                                                {
+                                                    "id": "lnk-34788c61cc39",
+                                                    "name": "HD",
+                                                    "type": "hls",
+                                                    "default": true,
+                                                    "url": "https://live10.watchsoccerlivenews.net/live/chimnho_key/playlist.m3u8",
+                                                    "request_headers": [
+                                                        {
+                                                            "key": "Referer",
+                                                            "value": "https://hoadaotv.org/havre-athletic-club-vs-paris-saint-germain-2397996"
+                                                        },
+                                                        {
+                                                            "key": "User-Agent",
+                                                            "value": "Mozilla/5.0"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "option": {
+        "save_history": false,
+        "save_search_history": false,
+        "save_wishlist": false
+    }
+}
