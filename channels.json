@@ -25,7 +25,7 @@
             "grid_number": 1,
             "channels": [
                 {
-                    "id": "ch-8cdefc3eab6e",
+                    "id": "ch-14a1458f3238",
                     "name": "havre-athletic-club-vs-paris-saint-germain-2397996",
                     "labels": [
                         {
@@ -47,19 +47,19 @@
                     "display": "text-below",
                     "sources": [
                         {
-                            "id": "src-f939f2196ce5",
+                            "id": "src-e1ed95974f78",
                             "name": "Server 1",
                             "contents": [
                                 {
-                                    "id": "ct-85e836fdc311",
+                                    "id": "ct-6bebc26f7abb",
                                     "name": "havre-athletic-club-vs-paris-saint-germain-2397996",
                                     "streams": [
                                         {
-                                            "id": "st-f8c2b729e7af",
+                                            "id": "st-2c7038b60876",
                                             "name": "Server 1",
                                             "stream_links": [
                                                 {
-                                                    "id": "lnk-9e450ce8cc5f",
+                                                    "id": "lnk-771c29bf3fc6",
                                                     "name": "HD",
                                                     "type": "hls",
                                                     "default": true,
@@ -84,7 +84,7 @@
                     ]
                 },
                 {
-                    "id": "ch-125088f24acf",
+                    "id": "ch-66c3b34d11de",
                     "name": "arsenal-vs-chelsea-2398804",
                     "labels": [
                         {
@@ -106,19 +106,19 @@
                     "display": "text-below",
                     "sources": [
                         {
-                            "id": "src-f258d491f106",
+                            "id": "src-e6fcf695590f",
                             "name": "Server 1",
                             "contents": [
                                 {
-                                    "id": "ct-ea23161df085",
+                                    "id": "ct-b016f73c70e1",
                                     "name": "arsenal-vs-chelsea-2398804",
                                     "streams": [
                                         {
-                                            "id": "st-1620de0fd014",
+                                            "id": "st-d6eb292a330c",
                                             "name": "Server 1",
                                             "stream_links": [
                                                 {
-                                                    "id": "lnk-55b935cd299c",
+                                                    "id": "lnk-7a46b78e2875",
                                                     "name": "HD",
                                                     "type": "hls",
                                                     "default": true,
@@ -143,7 +143,7 @@
                     ]
                 },
                 {
-                    "id": "ch-d3de2ca00b65",
+                    "id": "ch-c2833465e6a2",
                     "name": "arsenal-chelsea-2400404",
                     "labels": [
                         {
@@ -165,19 +165,19 @@
                     "display": "text-below",
                     "sources": [
                         {
-                            "id": "src-cceee3de14d7",
+                            "id": "src-cb5b95c9dde1",
                             "name": "Server 1",
                             "contents": [
                                 {
-                                    "id": "ct-ae88b7c2fdbc",
+                                    "id": "ct-45a1cafc6c2b",
                                     "name": "arsenal-chelsea-2400404",
                                     "streams": [
                                         {
-                                            "id": "st-a47c54384879",
+                                            "id": "st-63b9f127a16b",
                                             "name": "Server 1",
                                             "stream_links": [
                                                 {
-                                                    "id": "lnk-1c6dacb6cba4",
+                                                    "id": "lnk-7d9d1601fb90",
                                                     "name": "HD",
                                                     "type": "hls",
                                                     "default": true,
@@ -202,7 +202,7 @@
                     ]
                 },
                 {
-                    "id": "ch-2a12fa68dfbc",
+                    "id": "ch-d2aed15c8efd",
                     "name": "arsenal-fan-chelsea-2400406",
                     "labels": [
                         {
@@ -224,19 +224,19 @@
                     "display": "text-below",
                     "sources": [
                         {
-                            "id": "src-daf854763240",
+                            "id": "src-2df07aefc8cf",
                             "name": "Server 1",
                             "contents": [
                                 {
-                                    "id": "ct-1d1b8a7f6830",
+                                    "id": "ct-da8a42c15605",
                                     "name": "arsenal-fan-chelsea-2400406",
                                     "streams": [
                                         {
-                                            "id": "st-92e31fd49a49",
+                                            "id": "st-8480430fd0c9",
                                             "name": "Server 1",
                                             "stream_links": [
                                                 {
-                                                    "id": "lnk-de8a2d6e498b",
+                                                    "id": "lnk-52d4f538d1b0",
                                                     "name": "HD",
                                                     "type": "hls",
                                                     "default": true,
@@ -245,6 +245,65 @@
                                                         {
                                                             "key": "Referer",
                                                             "value": "https://hoadaotv.org/arsenal-fan-chelsea-2400406"
+                                                        },
+                                                        {
+                                                            "key": "User-Agent",
+                                                            "value": "Mozilla/5.0"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "ch-bbeee2565208",
+                    "name": "torino-vs-lazio-2398816",
+                    "labels": [
+                        {
+                            "position": "top-left",
+                            "text": "● Live",
+                            "color": "#FF0000",
+                            "text_color": "#FFFFFF"
+                        }
+                    ],
+                    "description": "Live Stream",
+                    "image": {
+                        "url": "https://kaytee1012.github.io/buncha_logo.png",
+                        "height": 480,
+                        "width": 640,
+                        "display": "cover",
+                        "shape": "square"
+                    },
+                    "type": "single",
+                    "display": "text-below",
+                    "sources": [
+                        {
+                            "id": "src-f135aa12b6b1",
+                            "name": "Server 1",
+                            "contents": [
+                                {
+                                    "id": "ct-4c89b72f0ae2",
+                                    "name": "torino-vs-lazio-2398816",
+                                    "streams": [
+                                        {
+                                            "id": "st-490f97840f98",
+                                            "name": "Server 1",
+                                            "stream_links": [
+                                                {
+                                                    "id": "lnk-8fe1b96ad86b",
+                                                    "name": "HD",
+                                                    "type": "hls",
+                                                    "default": true,
+                                                    "url": "https://live10.watchsoccerlivenews.net/live/gaonep_key/playlist.m3u8",
+                                                    "request_headers": [
+                                                        {
+                                                            "key": "Referer",
+                                                            "value": "https://hoadaotv.org/torino-vs-lazio-2398816"
                                                         },
                                                         {
                                                             "key": "User-Agent",
