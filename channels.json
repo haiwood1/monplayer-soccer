@@ -25,7 +25,7 @@
             "grid_number": 1,
             "channels": [
                 {
-                    "id": "ch-3cd0afa70955",
+                    "id": "ch-ba10f24be237",
                     "name": "havre-athletic-club-vs-paris-saint-germain-2397996",
                     "labels": [
                         {
@@ -47,19 +47,19 @@
                     "display": "text-below",
                     "sources": [
                         {
-                            "id": "src-57194d98a451",
+                            "id": "src-d8aef72fa814",
                             "name": "Server 1",
                             "contents": [
                                 {
-                                    "id": "ct-0610b4d9cc15",
+                                    "id": "ct-887290773220",
                                     "name": "havre-athletic-club-vs-paris-saint-germain-2397996",
                                     "streams": [
                                         {
-                                            "id": "st-cd92f02dff58",
+                                            "id": "st-e5bec4fb06ab",
                                             "name": "Server 1",
                                             "stream_links": [
                                                 {
-                                                    "id": "lnk-e9ddf56b6d46",
+                                                    "id": "lnk-471be6890105",
                                                     "name": "HD",
                                                     "type": "hls",
                                                     "default": true,
@@ -68,6 +68,65 @@
                                                         {
                                                             "key": "Referer",
                                                             "value": "https://hoadaotv.org/havre-athletic-club-vs-paris-saint-germain-2397996"
+                                                        },
+                                                        {
+                                                            "key": "User-Agent",
+                                                            "value": "Mozilla/5.0"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "ch-b886e37138b6",
+                    "name": "thi-lan-n-c-n-2400554",
+                    "labels": [
+                        {
+                            "position": "top-left",
+                            "text": "● Live",
+                            "color": "#FF0000",
+                            "text_color": "#FFFFFF"
+                        }
+                    ],
+                    "description": "Live Stream",
+                    "image": {
+                        "url": "https://kaytee1012.github.io/buncha_logo.png",
+                        "height": 480,
+                        "width": 640,
+                        "display": "cover",
+                        "shape": "square"
+                    },
+                    "type": "single",
+                    "display": "text-below",
+                    "sources": [
+                        {
+                            "id": "src-a39dd14f98d4",
+                            "name": "Server 1",
+                            "contents": [
+                                {
+                                    "id": "ct-c9467428db51",
+                                    "name": "thi-lan-n-c-n-2400554",
+                                    "streams": [
+                                        {
+                                            "id": "st-ea7639481213",
+                                            "name": "Server 1",
+                                            "stream_links": [
+                                                {
+                                                    "id": "lnk-d2fa9ef88555",
+                                                    "name": "HD",
+                                                    "type": "hls",
+                                                    "default": true,
+                                                    "url": "https://live10.watchsoccerlivenews.net/live/phao_key/playlist.m3u8",
+                                                    "request_headers": [
+                                                        {
+                                                            "key": "Referer",
+                                                            "value": "https://hoadaotv.org/thi-lan-n-c-n-2400554"
                                                         },
                                                         {
                                                             "key": "User-Agent",
