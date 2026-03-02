@@ -25,7 +25,7 @@
             "grid_number": 1,
             "channels": [
                 {
-                    "id": "ch-f962f059b135",
+                    "id": "ch-3cd0afa70955",
                     "name": "havre-athletic-club-vs-paris-saint-germain-2397996",
                     "labels": [
                         {
@@ -47,19 +47,19 @@
                     "display": "text-below",
                     "sources": [
                         {
-                            "id": "src-f16928167263",
+                            "id": "src-57194d98a451",
                             "name": "Server 1",
                             "contents": [
                                 {
-                                    "id": "ct-e6f701f2095a",
+                                    "id": "ct-0610b4d9cc15",
                                     "name": "havre-athletic-club-vs-paris-saint-germain-2397996",
                                     "streams": [
                                         {
-                                            "id": "st-09a68399dc0a",
+                                            "id": "st-cd92f02dff58",
                                             "name": "Server 1",
                                             "stream_links": [
                                                 {
-                                                    "id": "lnk-c0030188ebfa",
+                                                    "id": "lnk-e9ddf56b6d46",
                                                     "name": "HD",
                                                     "type": "hls",
                                                     "default": true,
@@ -68,183 +68,6 @@
                                                         {
                                                             "key": "Referer",
                                                             "value": "https://hoadaotv.org/havre-athletic-club-vs-paris-saint-germain-2397996"
-                                                        },
-                                                        {
-                                                            "key": "User-Agent",
-                                                            "value": "Mozilla/5.0"
-                                                        }
-                                                    ]
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "id": "ch-a4a7e32e9967",
-                    "name": "as-roma-vs-juventus-2398885",
-                    "labels": [
-                        {
-                            "position": "top-left",
-                            "text": "● Live",
-                            "color": "#FF0000",
-                            "text_color": "#FFFFFF"
-                        }
-                    ],
-                    "description": "Live Stream",
-                    "image": {
-                        "url": "https://kaytee1012.github.io/buncha_logo.png",
-                        "height": 480,
-                        "width": 640,
-                        "display": "cover",
-                        "shape": "square"
-                    },
-                    "type": "single",
-                    "display": "text-below",
-                    "sources": [
-                        {
-                            "id": "src-fd6e6994f402",
-                            "name": "Server 1",
-                            "contents": [
-                                {
-                                    "id": "ct-006a91e669c4",
-                                    "name": "as-roma-vs-juventus-2398885",
-                                    "streams": [
-                                        {
-                                            "id": "st-1dc24456c333",
-                                            "name": "Server 1",
-                                            "stream_links": [
-                                                {
-                                                    "id": "lnk-1b942594d915",
-                                                    "name": "HD",
-                                                    "type": "hls",
-                                                    "default": true,
-                                                    "url": "https://live10.watchsoccerlivenews.net/live/phao_key/playlist.m3u8",
-                                                    "request_headers": [
-                                                        {
-                                                            "key": "Referer",
-                                                            "value": "https://hoadaotv.org/as-roma-vs-juventus-2398885"
-                                                        },
-                                                        {
-                                                            "key": "User-Agent",
-                                                            "value": "Mozilla/5.0"
-                                                        }
-                                                    ]
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "id": "ch-4344bb53b286",
-                    "name": "marseille-vs-lyon-2398886",
-                    "labels": [
-                        {
-                            "position": "top-left",
-                            "text": "● Live",
-                            "color": "#FF0000",
-                            "text_color": "#FFFFFF"
-                        }
-                    ],
-                    "description": "Live Stream",
-                    "image": {
-                        "url": "https://kaytee1012.github.io/buncha_logo.png",
-                        "height": 480,
-                        "width": 640,
-                        "display": "cover",
-                        "shape": "square"
-                    },
-                    "type": "single",
-                    "display": "text-below",
-                    "sources": [
-                        {
-                            "id": "src-b618c3324383",
-                            "name": "Server 1",
-                            "contents": [
-                                {
-                                    "id": "ct-711600adc273",
-                                    "name": "marseille-vs-lyon-2398886",
-                                    "streams": [
-                                        {
-                                            "id": "st-b221ea559c3a",
-                                            "name": "Server 1",
-                                            "stream_links": [
-                                                {
-                                                    "id": "lnk-a1f77baea649",
-                                                    "name": "HD",
-                                                    "type": "hls",
-                                                    "default": true,
-                                                    "url": "https://live10.watchsoccerlivenews.net/live/meobeo_key/playlist.m3u8",
-                                                    "request_headers": [
-                                                        {
-                                                            "key": "Referer",
-                                                            "value": "https://hoadaotv.org/marseille-vs-lyon-2398886"
-                                                        },
-                                                        {
-                                                            "key": "User-Agent",
-                                                            "value": "Mozilla/5.0"
-                                                        }
-                                                    ]
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "id": "ch-5a648f7e3dba",
-                    "name": "orlando-city-vs-inter-miami-cf-2398969",
-                    "labels": [
-                        {
-                            "position": "top-left",
-                            "text": "● Live",
-                            "color": "#FF0000",
-                            "text_color": "#FFFFFF"
-                        }
-                    ],
-                    "description": "Live Stream",
-                    "image": {
-                        "url": "https://kaytee1012.github.io/buncha_logo.png",
-                        "height": 480,
-                        "width": 640,
-                        "display": "cover",
-                        "shape": "square"
-                    },
-                    "type": "single",
-                    "display": "text-below",
-                    "sources": [
-                        {
-                            "id": "src-85c658399cfb",
-                            "name": "Server 1",
-                            "contents": [
-                                {
-                                    "id": "ct-3239a7657f83",
-                                    "name": "orlando-city-vs-inter-miami-cf-2398969",
-                                    "streams": [
-                                        {
-                                            "id": "st-f3ecd36243a4",
-                                            "name": "Server 1",
-                                            "stream_links": [
-                                                {
-                                                    "id": "lnk-1d05297d2ad3",
-                                                    "name": "HD",
-                                                    "type": "hls",
-                                                    "default": true,
-                                                    "url": "https://live10.watchsoccerlivenews.net/live/gaonep_key/playlist.m3u8",
-                                                    "request_headers": [
-                                                        {
-                                                            "key": "Referer",
-                                                            "value": "https://hoadaotv.org/orlando-city-vs-inter-miami-cf-2398969"
                                                         },
                                                         {
                                                             "key": "User-Agent",
