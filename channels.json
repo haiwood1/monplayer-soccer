@@ -25,7 +25,7 @@
             "grid_number": 1,
             "channels": [
                 {
-                    "id": "ch-d007419e3b08",
+                    "id": "ch-da88e05d9913",
                     "name": "havre-athletic-club-vs-paris-saint-germain-2397996",
                     "labels": [
                         {
@@ -47,19 +47,19 @@
                     "display": "text-below",
                     "sources": [
                         {
-                            "id": "src-b7f513efc470",
+                            "id": "src-e88b6a9a71ee",
                             "name": "Server 1",
                             "contents": [
                                 {
-                                    "id": "ct-fc81eb485479",
+                                    "id": "ct-357f04d3179d",
                                     "name": "havre-athletic-club-vs-paris-saint-germain-2397996",
                                     "streams": [
                                         {
-                                            "id": "st-a580afbd1d91",
+                                            "id": "st-4b73eb9ed509",
                                             "name": "Server 1",
                                             "stream_links": [
                                                 {
-                                                    "id": "lnk-40425e42e033",
+                                                    "id": "lnk-14f1cf86cc8f",
                                                     "name": "HD",
                                                     "type": "hls",
                                                     "default": true,
@@ -68,65 +68,6 @@
                                                         {
                                                             "key": "Referer",
                                                             "value": "https://hoadaotv.org/havre-athletic-club-vs-paris-saint-germain-2397996"
-                                                        },
-                                                        {
-                                                            "key": "User-Agent",
-                                                            "value": "Mozilla/5.0"
-                                                        }
-                                                    ]
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "id": "ch-11e0ded25a62",
-                    "name": "real-madrid-vs-getafe-2399064",
-                    "labels": [
-                        {
-                            "position": "top-left",
-                            "text": "● Live",
-                            "color": "#FF0000",
-                            "text_color": "#FFFFFF"
-                        }
-                    ],
-                    "description": "Live Stream",
-                    "image": {
-                        "url": "https://kaytee1012.github.io/buncha_logo.png",
-                        "height": 480,
-                        "width": 640,
-                        "display": "cover",
-                        "shape": "square"
-                    },
-                    "type": "single",
-                    "display": "text-below",
-                    "sources": [
-                        {
-                            "id": "src-7e60aa790e8e",
-                            "name": "Server 1",
-                            "contents": [
-                                {
-                                    "id": "ct-1c0f19c8b1c9",
-                                    "name": "real-madrid-vs-getafe-2399064",
-                                    "streams": [
-                                        {
-                                            "id": "st-dd6190226ff8",
-                                            "name": "Server 1",
-                                            "stream_links": [
-                                                {
-                                                    "id": "lnk-a78987797186",
-                                                    "name": "HD",
-                                                    "type": "hls",
-                                                    "default": true,
-                                                    "url": "https://live1.footballvideocdn20xx.org/live/buncha_key/playlist.m3u8",
-                                                    "request_headers": [
-                                                        {
-                                                            "key": "Referer",
-                                                            "value": "https://hoadaotv.org/real-madrid-vs-getafe-2399064"
                                                         },
                                                         {
                                                             "key": "User-Agent",
