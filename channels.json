@@ -25,7 +25,7 @@
             "grid_number": 1,
             "channels": [
                 {
-                    "id": "ch-da88e05d9913",
+                    "id": "ch-8c834567cced",
                     "name": "havre-athletic-club-vs-paris-saint-germain-2397996",
                     "labels": [
                         {
@@ -47,19 +47,19 @@
                     "display": "text-below",
                     "sources": [
                         {
-                            "id": "src-e88b6a9a71ee",
+                            "id": "src-128ae77847f1",
                             "name": "Server 1",
                             "contents": [
                                 {
-                                    "id": "ct-357f04d3179d",
+                                    "id": "ct-5ab667c93bad",
                                     "name": "havre-athletic-club-vs-paris-saint-germain-2397996",
                                     "streams": [
                                         {
-                                            "id": "st-4b73eb9ed509",
+                                            "id": "st-16fa36f19977",
                                             "name": "Server 1",
                                             "stream_links": [
                                                 {
-                                                    "id": "lnk-14f1cf86cc8f",
+                                                    "id": "lnk-54863498928c",
                                                     "name": "HD",
                                                     "type": "hls",
                                                     "default": true,
@@ -68,6 +68,65 @@
                                                         {
                                                             "key": "Referer",
                                                             "value": "https://hoadaotv.org/havre-athletic-club-vs-paris-saint-germain-2397996"
+                                                        },
+                                                        {
+                                                            "key": "User-Agent",
+                                                            "value": "Mozilla/5.0"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "ch-1bffacf3a512",
+                    "name": "gangwon-football-club-vs-machida-zelvia-2399098",
+                    "labels": [
+                        {
+                            "position": "top-left",
+                            "text": "● Live",
+                            "color": "#FF0000",
+                            "text_color": "#FFFFFF"
+                        }
+                    ],
+                    "description": "Live Stream",
+                    "image": {
+                        "url": "https://kaytee1012.github.io/buncha_logo.png",
+                        "height": 480,
+                        "width": 640,
+                        "display": "cover",
+                        "shape": "square"
+                    },
+                    "type": "single",
+                    "display": "text-below",
+                    "sources": [
+                        {
+                            "id": "src-f6f77a61bbe6",
+                            "name": "Server 1",
+                            "contents": [
+                                {
+                                    "id": "ct-0b9b58743a92",
+                                    "name": "gangwon-football-club-vs-machida-zelvia-2399098",
+                                    "streams": [
+                                        {
+                                            "id": "st-5cb68e91063d",
+                                            "name": "Server 1",
+                                            "stream_links": [
+                                                {
+                                                    "id": "lnk-acf9bfaeef24",
+                                                    "name": "HD",
+                                                    "type": "hls",
+                                                    "default": true,
+                                                    "url": "https://live1.footballvideocdn20xx.org/live/gaonep_keysd/playlist.m3u8",
+                                                    "request_headers": [
+                                                        {
+                                                            "key": "Referer",
+                                                            "value": "https://hoadaotv.org/gangwon-football-club-vs-machida-zelvia-2399098"
                                                         },
                                                         {
                                                             "key": "User-Agent",
