@@ -25,7 +25,7 @@
             "grid_number": 1,
             "channels": [
                 {
-                    "id": "ch-2b4152a71794",
+                    "id": "ch-90dc9be74209",
                     "name": "havre-athletic-club-vs-paris-saint-germain-2397996",
                     "labels": [
                         {
@@ -47,19 +47,19 @@
                     "display": "text-below",
                     "sources": [
                         {
-                            "id": "src-5eb1da57f876",
+                            "id": "src-c9a7c24124f4",
                             "name": "Server 1",
                             "contents": [
                                 {
-                                    "id": "ct-a572386ebc91",
+                                    "id": "ct-c2520fb9e73a",
                                     "name": "havre-athletic-club-vs-paris-saint-germain-2397996",
                                     "streams": [
                                         {
-                                            "id": "st-741855fbaf16",
+                                            "id": "st-fd5e39a14490",
                                             "name": "Server 1",
                                             "stream_links": [
                                                 {
-                                                    "id": "lnk-27ff3e295dac",
+                                                    "id": "lnk-5ee7b7b730e3",
                                                     "name": "HD",
                                                     "type": "hls",
                                                     "default": true,
@@ -68,65 +68,6 @@
                                                         {
                                                             "key": "Referer",
                                                             "value": "https://hoadaotv.org/havre-athletic-club-vs-paris-saint-germain-2397996"
-                                                        },
-                                                        {
-                                                            "key": "User-Agent",
-                                                            "value": "Mozilla/5.0"
-                                                        }
-                                                    ]
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "id": "ch-56b57114a680",
-                    "name": "juventude-vs-guapore-2400691",
-                    "labels": [
-                        {
-                            "position": "top-left",
-                            "text": "● Live",
-                            "color": "#FF0000",
-                            "text_color": "#FFFFFF"
-                        }
-                    ],
-                    "description": "Live Stream",
-                    "image": {
-                        "url": "https://kaytee1012.github.io/buncha_logo.png",
-                        "height": 480,
-                        "width": 640,
-                        "display": "cover",
-                        "shape": "square"
-                    },
-                    "type": "single",
-                    "display": "text-below",
-                    "sources": [
-                        {
-                            "id": "src-a47e393e3e23",
-                            "name": "Server 1",
-                            "contents": [
-                                {
-                                    "id": "ct-fef0cf79e015",
-                                    "name": "juventude-vs-guapore-2400691",
-                                    "streams": [
-                                        {
-                                            "id": "st-dc4449fc0b64",
-                                            "name": "Server 1",
-                                            "stream_links": [
-                                                {
-                                                    "id": "lnk-a6d374a693ba",
-                                                    "name": "HD",
-                                                    "type": "hls",
-                                                    "default": true,
-                                                    "url": "https://live1.footballvideocdn20xx.org/live/chimnho_key/playlist.m3u8",
-                                                    "request_headers": [
-                                                        {
-                                                            "key": "Referer",
-                                                            "value": "https://hoadaotv.org/juventude-vs-guapore-2400691"
                                                         },
                                                         {
                                                             "key": "User-Agent",
